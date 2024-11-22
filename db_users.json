@@ -1,0 +1,28 @@
+{
+    "users": [
+        {
+            "id": "12345678",
+            "name": "Ivan Narvaez",
+            "username": "ivan",
+            "password": "123",
+            "email": "ivan.narvaez@gmail.com",
+            "role": "Administrador"
+        },
+        {
+            "id": "987654321",
+            "name": "Sandra Lagares",
+            "username": "slagares",
+            "password": "123",
+            "email": "slagaresz@gmail.com",
+            "role": "Vendedor"
+        },
+        {
+            "id": "LD",
+            "name": "Luis",
+            "username": "LDiaz",
+            "password": "123",
+            "email": "LuisFelipeDD",
+            "role": "Administrador"
+        }
+    ]
+}
